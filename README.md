@@ -10,10 +10,11 @@ That being said, please don't use this for you own benefit, even if that could b
 
   - The file "Relatório Final" is a final resume of the program explaining some things about it
 
+##
+```bash
 The project is made on Visual Basic 2010 and the database is made on Microsoft Access 2007
 
-##
-
-The project has more than 100 files, so i can't publish it unless it's a compressed file.
+It has more than 100 files, so i can't publish it unless it's a compressed file.
 
 You can just download and open it, you can then see all the files inside, plus you can also execute the program to try it out.
+```
