@@ -11,3 +11,9 @@ Files only available in the language - Portuguese
   - The file "Relatório Final" is a final resume of the program explaining some things about it
 
 The project is made on Visual Basic 2010 and the database is made on Microsoft Access 2007
+
+##
+
+The project has more than 100 files, so i can't publish it unless it's a compressed file.
+
+You can just download and open it, you can then see all the files inside, plus you can also execute the program to try it out.
