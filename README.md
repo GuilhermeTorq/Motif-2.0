@@ -4,4 +4,10 @@ I decided to make an invoicing program. I didn't make it so it's legit, but it c
   
 That being said, please don't use this for you own benefit, even if that could be possible, somehow.
 
+Files only available in the language - Portuguese
+
+  - The file "APRESENTAÇÃO DA PAP - Motif 2.0" is a complement to the program presentation to the juris
+
+  - The file "Relatório Final" is a final resume of the program explaining some things about it
+
 The project is made on Visual Basic 2010 and the database is made on Microsoft Access 2007
