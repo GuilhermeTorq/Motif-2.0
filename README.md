@@ -5,7 +5,7 @@
 This was a project made for "PAP" (Prova de Aptidão profissional = Proof of Profissional Aptitude), that is required to do in the last year of Highschool(12º). 
 I decided to make an invoicing program. I didn't make it so that its legit, but it can be used has a guide or just for information. 
   
-That being said, please don't use this for you own benefit, even if that could be possible, somehow.
+You can't use this for "real" as it is not allowed by the goverment, only to yourself
 
 ## Files only available in the language - Portuguese
 
